@@ -25,6 +25,7 @@ My final [dashboard](oth-data-hrr.pdf)
 9. What is the total Employees by Gender?
 10. What is the demographic structure by age and gender? 
 
+
 ## Skills/ concepts demonstrated
 
 - 🧮 Data Cleaning and Data Processing
@@ -69,6 +70,8 @@ ___6. Total Employees by Age Group and Gender;___
 
 
 
+
+
  the all dashboard ![](hr_dashboard.PNG)
 
 ___KPI's Requirements___
@@ -79,44 +82,104 @@ ___1. Total Employees by Job Satisfaction and Education Field;___
 
 ![](total_emp_by_job_satisfaction.PNG)
 
+__Objective:__ Identify key education fields to target for talent acquisition.
+__KPI Requirements:__
+Average job satisfaction by education field.
+Correlation with other factors (e.g., income levels).
+___Observation:___ Job satisfaction is highest in the Life Sciences field.
+
 ___2. Total Employees by Department;___
 
 ![](total_emp_by_departement.PNG)
+
+__Objective:__ Effectively allocate human resources across departments.
+__KPI Requirements:__
+Number of employees per department.
+Growth or decline trends by department.
+___Observation:___ Most employees (64.93%) are in the Research & Development department..
 
 
 ___3. Total Employees by Job Role and Gender;___
 
 ![](total_emp_by_jobrole_gender.PNG)
 
+__Objective:__ Promote diversity in underrepresented roles.
+__KPI Requirements:__
+Number of male and female employees by job role.
+Gender comparisons for similar roles.
+___Observation:___ Female representation is highest among Sales Executives (130 employees).
+
 
 ___4. Total Employees by Business Travel;___
 
 ![](total_emp_by_business_travel.PNG)
+
+__Objective:__ Optimize travel-related costs.
+__KPI Requirements:__
+Number of employees who travel rarely, frequently, or not at all.
+Average expenses associated with each travel category.
+___Observation:___ 998 employees travel rarely.
 
 
 ___5. Total Employees by Gender;___
 
 ![](total_emp_by_gender.PNG)
 
+__Objective:__ Provide insights into the organization's gender diversity.
+__KPI Requirements:__
+Total number of male and female employees.
+Percentage representation of each gender.
+Historical trends or comparisons if applicable.
+___Observation:___
+The organization has 60% male employees (854) and 40% female employees (569).
+This indicates a male-dominated workforce that may require strategies to improve female representation.
+
 
 ___6. Total Employees by Age Group and Gender;___
 
 ![](total_emp_by_agegroup_gender.PNG)
 
+__Objective:__ Plan talent management based on age group trends.
+__KPI Requirements:__
+Distribution of employees by age group and gender.
+Historical trends in age-based recruitment.
+___Observation:___ The 26-35 age group is the most represented.
+
 
 ### ❎ Conclusion and Recommendations:
 
-___Product Strategy:___ Focus on stocking and promoting high-performing item types identified in the analysis to maximize sales.
+#### Conclusion
 
+This dashboard provides a detailed analysis of key HR metrics, offering valuable insights into employee demographics, satisfaction, attrition, and workforce distribution. The data reveals notable trends, such as a male-dominated workforce (60%), a high concentration of employees in the Research & Development department (64.93%), and significant attrition (230 employees). While job satisfaction is relatively higher in the Life Sciences field, it varies widely across educational backgrounds. The dashboard also highlights business travel trends, with the majority of employees traveling rarely.
 
-___Inventory Management:___ Align inventory distribution with regional preferences, especially concerning product attributes like fat content, to meet customer demand effectively.
+#### Recommendations
 
+__Enhance Gender Diversity__
 
-___Outlet Development:___ Consider insights on outlet size, location, and type when planning new stores or refurbishing existing ones to optimize sales performance.
+Develop and implement gender-inclusive hiring and promotion policies.
+Introduce mentoring programs to support female employees in underrepresented roles.
 
+__Reduce Employee Attrition__
 
-___Marketing Initiatives:___ Tailor marketing campaigns to highlight popular products and cater to regional tastes, as indicated by the sales data.
+Conduct exit interviews to identify common reasons for turnover.
+Offer career development opportunities, competitive benefits, and a supportive work environment to improve retention.
 
+__Optimize Job Satisfaction__
 
+Address the disparities in job satisfaction among employees from different education fields.
+Regularly conduct employee satisfaction surveys to monitor and act on feedback.
 
-By implementing these recommendations, OTH-DATA Clothing Store can enhance its sales performance, improve customer satisfaction, and strategically plan for future growth.
+__Improve Workforce Balance__
+
+Reassess resource distribution in departments with lower employee representation (e.g., Sales and Human Resources).
+Provide targeted training programs to upskill employees in smaller departments.
+
+__Optimize Business Travel Expenses__
+
+Review travel policies to ensure cost-effectiveness while meeting business needs.
+Consider leveraging virtual meetings for employees traveling frequently.
+
+__Leverage Data-Driven Decision-Making__
+
+Use predictive analytics to identify future HR trends and challenges, such as attrition risk or workforce aging.
+Continuously monitor KPIs on the dashboard to adapt strategies as needed.
