@@ -1,7 +1,7 @@
 # HR_DEPARTEMENT_Dashboard_by_POWER_BI
 
 
-![](hr-background.jpg)
+![](hr_job.jpg)
 
 
 ---
