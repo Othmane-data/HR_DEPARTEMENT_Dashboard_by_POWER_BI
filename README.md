@@ -1,7 +1,9 @@
 # HR_DEPARTEMENT_Dashboard_by_POWER_BI
+
+
 ![](hr-background.jpg)
 
-![](https://github.com/Othmane-data/HR_DEPARTEMENT_Dashboard_by_POWER_BI/blob/main/HR-data-oth.pbix)
+
 ---
 ## Introduction
 
