@@ -82,20 +82,20 @@ ___1. Total Employees by Job Satisfaction and Education Field;___
 
 ![](total_emp_by_job_satisfaction.PNG)
 
-__Objective:__ Identify key education fields to target for talent acquisition.
+__Objective:__ Identify key education fields to target for talent acquisition.  
 __KPI Requirements:__
 * Average job satisfaction by education field.
-+ Correlation with other factors (e.g., income levels).
++ Correlation with other factors (e.g., income levels).  
 ___Observation:___ Job satisfaction is highest in the Life Sciences field.
 
 ___2. Total Employees by Department;___
 
 ![](total_emp_by_departement.PNG)
 
-__Objective:__ Effectively allocate human resources across departments.
+__Objective:__ Effectively allocate human resources across departments.  
 __KPI Requirements:__
-Number of employees per department.
-Growth or decline trends by department.
+* Number of employees per department.
+* Growth or decline trends by department.  
 ___Observation:___ Most employees (64.93%) are in the Research & Development department..
 
 
@@ -103,10 +103,10 @@ ___3. Total Employees by Job Role and Gender;___
 
 ![](total_emp_by_jobrole_gender.PNG)
 
-__Objective:__ Promote diversity in underrepresented roles.
+__Objective:__ Promote diversity in underrepresented roles.  
 __KPI Requirements:__
-Number of male and female employees by job role.
-Gender comparisons for similar roles.
+* Number of male and female employees by job role.
+* Gender comparisons for similar roles.  
 ___Observation:___ Female representation is highest among Sales Executives (130 employees).
 
 
@@ -114,10 +114,10 @@ ___4. Total Employees by Business Travel;___
 
 ![](total_emp_by_business_travel.PNG)
 
-__Objective:__ Optimize travel-related costs.
+__Objective:__ Optimize travel-related costs.  
 __KPI Requirements:__
-Number of employees who travel rarely, frequently, or not at all.
-Average expenses associated with each travel category.
+* Number of employees who travel rarely, frequently, or not at all.
+* Average expenses associated with each travel category.  
 ___Observation:___ 998 employees travel rarely.
 
 
@@ -125,24 +125,24 @@ ___5. Total Employees by Gender;___
 
 ![](total_emp_by_gender.PNG)
 
-__Objective:__ Provide insights into the organization's gender diversity.
+__Objective:__ Provide insights into the organization's gender diversity.  
 __KPI Requirements:__
-Total number of male and female employees.
-Percentage representation of each gender.
-Historical trends or comparisons if applicable.
+* Total number of male and female employees.
+* Percentage representation of each gender.
+* Historical trends or comparisons if applicable.  
 ___Observation:___
-The organization has 60% male employees (854) and 40% female employees (569).
-This indicates a male-dominated workforce that may require strategies to improve female representation.
+* The organization has 60% male employees (854) and 40% female employees (569).
+* This indicates a male-dominated workforce that may require strategies to improve female representation.
 
 
 ___6. Total Employees by Age Group and Gender;___
 
 ![](total_emp_by_agegroup_gender.PNG)
 
-__Objective:__ Plan talent management based on age group trends.
+__Objective:__ Plan talent management based on age group trends.  
 __KPI Requirements:__
-Distribution of employees by age group and gender.
-Historical trends in age-based recruitment.
+* Distribution of employees by age group and gender.
+* Historical trends in age-based recruitment.  
 ___Observation:___ The 26-35 age group is the most represented.
 
 
@@ -156,30 +156,30 @@ This dashboard provides a detailed analysis of key HR metrics, offering valuable
 
 __Enhance Gender Diversity__
 
-Develop and implement gender-inclusive hiring and promotion policies.
-Introduce mentoring programs to support female employees in underrepresented roles.
+* Develop and implement gender-inclusive hiring and promotion policies.
+* Introduce mentoring programs to support female employees in underrepresented roles.  
 
 __Reduce Employee Attrition__
 
-Conduct exit interviews to identify common reasons for turnover.
-Offer career development opportunities, competitive benefits, and a supportive work environment to improve retention.
+* Conduct exit interviews to identify common reasons for turnover.
+* Offer career development opportunities, competitive benefits, and a supportive work environment to improve retention.  
 
 __Optimize Job Satisfaction__
 
-Address the disparities in job satisfaction among employees from different education fields.
-Regularly conduct employee satisfaction surveys to monitor and act on feedback.
+* Address the disparities in job satisfaction among employees from different education fields.
+* Regularly conduct employee satisfaction surveys to monitor and act on feedback.  
 
 __Improve Workforce Balance__
 
-Reassess resource distribution in departments with lower employee representation (e.g., Sales and Human Resources).
-Provide targeted training programs to upskill employees in smaller departments.
+* Reassess resource distribution in departments with lower employee representation (e.g., Sales and Human Resources).
+* Provide targeted training programs to upskill employees in smaller departments.  
 
 __Optimize Business Travel Expenses__
 
-Review travel policies to ensure cost-effectiveness while meeting business needs.
-Consider leveraging virtual meetings for employees traveling frequently.
+* Review travel policies to ensure cost-effectiveness while meeting business needs.
+* Consider leveraging virtual meetings for employees traveling frequently.  
 
 __Leverage Data-Driven Decision-Making__
 
-Use predictive analytics to identify future HR trends and challenges, such as attrition risk or workforce aging.
-Continuously monitor KPIs on the dashboard to adapt strategies as needed.
+* Use predictive analytics to identify future HR trends and challenges, such as attrition risk or workforce aging.
+* Continuously monitor KPIs on the dashboard to adapt strategies as needed.  
