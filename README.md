@@ -1,6 +1,6 @@
 # HR_DEPARTEMENT_Dashboard_by_POWER_BI
 
-![](https://github.com/Othmane-data/Clothing-Store_Dashboard_by_POWER_BI/blob/main/MY-OTH-DATA.pbix)
+![](https://github.com/Othmane-data/HR_DEPARTEMENT_Dashboard_by_POWER_BI/blob/main/HR-data-oth.pbix)
 ---
 ## Introduction
 
@@ -52,13 +52,18 @@ The report comprises 6 charts:
 
 ___1. Total Employees by Job Satisfaction and Education Field;___
 
+
 ___2. Total Employees by Department;___
+
 
 ___3. Total Employees by Job Role and Gender;___
 
+
 ___4. Total Employees by Business Travel;___
 
+
 ___5. Total Employees by Gender;___
+
 
 ___6. Total Employees by Age Group and Gender;___
 
@@ -72,26 +77,31 @@ ___KPI's Requirements___
 
 ___1. Total Employees by Job Satisfaction and Education Field;___
 
-
+![](total_emp_by_job_satisfaction.PNG)
 
 ___2. Total Employees by Department;___
 
+![](total_emp_by_departement.PNG)
 
 
 ___3. Total Employees by Job Role and Gender;___
 
+![](total_emp_by_jobrole_gender.PNG)
 
 
 ___4. Total Employees by Business Travel;___
 
+![](total_emp_by_business_travel.PNG)
 
 
 ___5. Total Employees by Gender;___
 
+![](total_emp_by_gender.PNG)
 
 
 ___6. Total Employees by Age Group and Gender;___
 
+![](total_emp_by_agegroup_gender.PNG)
 
 
 ### ❎ Conclusion and Recommendations:
