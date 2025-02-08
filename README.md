@@ -84,8 +84,8 @@ ___1. Total Employees by Job Satisfaction and Education Field;___
 
 __Objective:__ Identify key education fields to target for talent acquisition.
 __KPI Requirements:__
-`#000000` Average job satisfaction by education field.
-Correlation with other factors (e.g., income levels).
+* Average job satisfaction by education field.
++ Correlation with other factors (e.g., income levels).
 ___Observation:___ Job satisfaction is highest in the Life Sciences field.
 
 ___2. Total Employees by Department;___
